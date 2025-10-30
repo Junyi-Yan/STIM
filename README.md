@@ -1,7 +1,7 @@
 # STIM
 
 This repository is the official implementation of "[Address Anomalies at Critical Crossroads for Graph Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/11183627)", accepted by TKDE.
-
+![](https://github.com/Junyi-Yan/Junyi-Yan.github.io/blob/main/Picture/TKDE2025.png)
 
 # Overview
 Our implementation for STIM is based on PyTorch. 
