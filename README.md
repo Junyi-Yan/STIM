@@ -29,6 +29,7 @@ python run.py
 # Cite
 If you compare with, build on, or use aspects of this work, please cite the following:
 
+```
 @article{yan2025address,  
   title={Address Anomalies at Critical Crossroads for Graph Anomaly Detection},  
   author={Yan, Junyi and Zuo, Enguang and Liang, Ke and Liu, Meng and Li, Miaomiao and Liu, Xinwang and Lv, Xiaoyi and Lu, Kai},  
@@ -36,3 +37,4 @@ If you compare with, build on, or use aspects of this work, please cite the foll
   year={2025},  
   publisher={IEEE}  
 }
+```
