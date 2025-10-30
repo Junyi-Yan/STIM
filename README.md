@@ -1,6 +1,8 @@
 # STIM
 
-This is the source code of TKDE paper **"Address Anomalies at Critical Crossroads for Graph Anomaly Detection"**.
+<span style="font-size:20px;">
+This is the source code of TKDE paper <b><span style="color:#007BFF;">"Address Anomalies at Critical Crossroads for Graph Anomaly Detection"</span></b>.
+</span>
 
 # Overview
 Our implementation for STIM is based on PyTorch. 
@@ -21,11 +23,14 @@ This code requires the following:
 - DGL-cu111==0.6.1 (Do not use the version which is newer than that!)
 
 # Usage
-
+Step1: Pre-processing
+```
+python preprocessing.py
+```
+Step2: Anomaly Detection
 ```
 python run.py
 ```
-
 # Cite
 If you compare with, build on, or use aspects of this work, please cite the following:
 
