@@ -1,6 +1,6 @@
 # STIM
 
-This is the source code of TKDE paper <font color="#0099ff">"Address Anomalies at Critical Crossroads for Graph Anomaly Detection"</font>.
+This is the source code of TKDE paper "<font color="#0099ff">Address Anomalies at Critical Crossroads for Graph Anomaly Detection</font>".
 
 
 # Overview
