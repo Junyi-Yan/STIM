@@ -1,8 +1,7 @@
 # STIM
 
-<span style="font-size:20px;">
-This is the source code of TKDE paper <b><span style="color:#007BFF;">"Address Anomalies at Critical Crossroads for Graph Anomaly Detection"</span></b>.
-</span>
+<font size="5">This is the source code of TKDE paper <b><font color="blue">"Address Anomalies at Critical Crossroads for Graph Anomaly Detection"</font></b>.</font>
+
 
 # Overview
 Our implementation for STIM is based on PyTorch. 
