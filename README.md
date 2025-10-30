@@ -1,0 +1,38 @@
+# STIM
+
+This is the source code of TKDE paper **"Address Anomalies at Critical Crossroads for Graph Anomaly Detection"**.
+
+# Overview
+Our implementation for STIM is based on PyTorch. 
+
+
+#Requirments
+This code requires the following:
+
+- Python==3.8
+- PyTorch==1.9.0+cu111
+- Pytorch Geometric==2.3.0
+- Numpy==1.21.2
+- Scipy==1.9.3
+- Scikit-learn==1.1.2
+- NetworkX==2.8.8
+- OGB==1.3.5
+- DGL==0.4.3 
+- DGL-cu111==0.6.1 (Do not use the version which is newer than that!)
+
+#Usage
+
+```
+python run.py
+```
+
+#Cite
+If you compare with, build on, or use aspects of this work, please cite the following:
+
+@article{yan2025address,
+  title={Address Anomalies at Critical Crossroads for Graph Anomaly Detection},
+  author={Yan, Junyi and Zuo, Enguang and Liang, Ke and Liu, Meng and Li, Miaomiao and Liu, Xinwang and Lv, Xiaoyi and Lu, Kai},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2025},
+  publisher={IEEE}
+}
