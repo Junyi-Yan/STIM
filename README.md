@@ -34,7 +34,7 @@ python run.py
 
 # Baselines
 All baselines and their URLs are as follows:  
-ANOMALOUS [Paper](https://www.ijcai.org/proceedings/2018/488)([Code](https://github.com/zpeng27/ANOMALOUS))
+- ANOMALOUS [Paper](https://www.ijcai.org/proceedings/2018/488)[Code](https://github.com/zpeng27/ANOMALOUS)
 
 
 # Cite
