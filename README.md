@@ -35,6 +35,11 @@ python run.py
 # Baselines
 All baselines and their URLs are as follows:  
 - ANOMALOUS [[Paper](https://www.ijcai.org/proceedings/2018/488)] [[Code](https://github.com/zpeng27/ANOMALOUS)]
+- DGI [[Paper](https://arxiv.org/abs/1809.10341)] [[Code](https://github.com/PetarV-/DGI)]
+- CoLA [[Paper](https://ieeexplore.ieee.org/document/9395172)] [[Code](https://github.com/yixinliu233/CoLA)]
+- ANEMONE [[Paper](https://shiruipan.github.io/publication/cikm-21-jin/)] [[Code](https://github.com/TrustAGI-Lab/ANEMONE)]
+- SL-GAD [[Paper](https://ieeexplore.ieee.org/abstract/document/9568697)] [[Code](https://github.com/KimMeen/SL-GAD)]
+- Sub-CR [[Paper](https://ieeexplore.ieee.org/abstract/document/9568697)] [[Code](https://github.com/KimMeen/SL-GAD)]
 
 
 # Cite
