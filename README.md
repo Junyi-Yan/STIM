@@ -33,7 +33,7 @@ python run.py
 ```
 
 # Baselines
-All baselines and their URLs are as follows:
+All baselines and their URLs are as follows:  
 [ANOMALOUS](https://www.ijcai.org/proceedings/2018/488)([https://github.com/zpeng27/ANOMALOUS](https://github.com/zpeng27/ANOMALOUS))
 
 
