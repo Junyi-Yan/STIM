@@ -31,6 +31,12 @@ Step2: Anomaly Detection
 ```
 python run.py
 ```
+
+# Baselines
+All baselines and their URLs are as follows:
+[ANOMALOUS](https://github.com/zpeng27/ANOMALOUS)([(https://github.com/zpeng27/ANOMALOUS)](https://github.com/zpeng27/ANOMALOUS))
+
+
 # Cite
 If you compare with, build on, or use aspects of this work, please cite the following:
 
