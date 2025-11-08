@@ -39,10 +39,9 @@ All baselines and their URLs are as follows:
 - CoLA [[Paper](https://ieeexplore.ieee.org/document/9395172)] [[Code](https://github.com/yixinliu233/CoLA)]
 - ANEMONE [[Paper](https://shiruipan.github.io/publication/cikm-21-jin/)] [[Code](https://github.com/TrustAGI-Lab/ANEMONE)]
 - SL-GAD [[Paper](https://ieeexplore.ieee.org/abstract/document/9568697)] [[Code](https://github.com/KimMeen/SL-GAD)]
-- Sub-CR [[Paper](https://ieeexplore.ieee.org/abstract/document/9568697)] [[Code](https://github.com/KimMeen/SL-GAD)]
+- Sub-CR [[Paper](https://www.ijcai.org/proceedings/2022/0330.pdf)] [[Code](https://github.com/Zjer12/Sub)]
 - GRADATE [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25907)] [[Code](https://github.com/FelixDJC/GRADATE)]
-- 
-
+- TAM [[Paper](https://nips.cc/virtual/2023/poster/70486)] [[Code](https://github.com/mala-lab/TAM-master)]
 
 # Cite
 If you compare with, build on, or use aspects of this work, please cite the following:
