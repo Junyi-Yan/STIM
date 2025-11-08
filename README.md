@@ -40,6 +40,8 @@ All baselines and their URLs are as follows:
 - ANEMONE [[Paper](https://shiruipan.github.io/publication/cikm-21-jin/)] [[Code](https://github.com/TrustAGI-Lab/ANEMONE)]
 - SL-GAD [[Paper](https://ieeexplore.ieee.org/abstract/document/9568697)] [[Code](https://github.com/KimMeen/SL-GAD)]
 - Sub-CR [[Paper](https://ieeexplore.ieee.org/abstract/document/9568697)] [[Code](https://github.com/KimMeen/SL-GAD)]
+- GRADATE [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25907)] [[Code](https://github.com/FelixDJC/GRADATE)]
+- 
 
 
 # Cite
